@@ -1,0 +1,20 @@
+{
+    "name": "contentrex/demo-application",
+    "description": "Contentrex Application Skeleton",
+    "license": "MIT",
+    "keywords": [
+        "Contentrex"
+    ],
+    "homepage": "https://github.com/ContentRex/DemoApplication",
+    "authors": [
+        {
+            "name": "Michael Bauer",
+            "email": "miba@contentrex.de",
+            "homepage": "http://www.contentrex.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "contentrex/servicelocator" : "dev-master"
+    }
+}
