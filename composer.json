@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "contentrex/servicelocator" : "dev-master"
+        "contentrex/servicelocator" : ">=0.1-dev"
     },
     "extra": {
         "branch-alias": {
