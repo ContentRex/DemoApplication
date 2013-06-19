@@ -13,8 +13,14 @@
             "homepage": "http://www.contentrex.de"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
         "contentrex/servicelocator" : "dev-master"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
     }
 }
